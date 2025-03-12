@@ -1,0 +1,461 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Shopping.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\backend\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\images\\102.png",
+      "PackagePath": "staticwebassets\\images\\102.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\093dda2a-7ee5-4b50-800c-1fae9109c6de_10.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\093dda2a-7ee5-4b50-800c-1fae9109c6de_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\17525b38-12eb-4eaf-a72d-617e7fdb60ae_1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\17525b38-12eb-4eaf-a72d-617e7fdb60ae_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\35a0707f-9f94-4eec-8f8c-8f51c2db230b_9.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\35a0707f-9f94-4eec-8f8c-8f51c2db230b_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\55fe3340-855a-4ee3-b2a2-4e38ecc1de49_4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\55fe3340-855a-4ee3-b2a2-4e38ecc1de49_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\59b61d50-5d0f-4c72-a5f7-72eab700fdd1_6.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\59b61d50-5d0f-4c72-a5f7-72eab700fdd1_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\734c49c9-a56a-41d9-a61c-f4c621ce5935_9.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\734c49c9-a56a-41d9-a61c-f4c621ce5935_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\734e5e09-b4c8-4014-bd59-c446832a4c6e_11.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\734e5e09-b4c8-4014-bd59-c446832a4c6e_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\89757390-e0e1-4413-95f0-966120f8eb4c_1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\89757390-e0e1-4413-95f0-966120f8eb4c_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\a22b288e-0cb1-467d-9991-56282d6f714e_6.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\a22b288e-0cb1-467d-9991-56282d6f714e_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\a85605a8-b255-4d8c-a8bc-e04d6d430074_8.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\a85605a8-b255-4d8c-a8bc-e04d6d430074_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\aaf3bc73-2bee-467e-8e8d-1b11ef0b76d2_8.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\aaf3bc73-2bee-467e-8e8d-1b11ef0b76d2_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\ab3c85e6-4a55-481b-982e-78d2e8ab1a6e_1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\ab3c85e6-4a55-481b-982e-78d2e8ab1a6e_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\b3665f78-4c1c-4b92-b143-5b31e52dcef7_102.png",
+      "PackagePath": "staticwebassets\\media\\products\\b3665f78-4c1c-4b92-b143-5b31e52dcef7_102.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\b56f4c65-6324-44c1-88b1-a793308751e0_3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\b56f4c65-6324-44c1-88b1-a793308751e0_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\bb3e9083-f21d-4cce-b689-458ed4246ac2_5.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\bb3e9083-f21d-4cce-b689-458ed4246ac2_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\c41a9062-0690-4c8c-891e-af8bf7928177_8.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\c41a9062-0690-4c8c-891e-af8bf7928177_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\c50bebb1-5e8d-4667-97a1-f21286e1146f_4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\c50bebb1-5e8d-4667-97a1-f21286e1146f_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\d891d792-474e-47c2-9de5-051db5092d3a_5.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\d891d792-474e-47c2-9de5-051db5092d3a_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\db86548a-19dd-4d37-b720-3fbb45ce5a03_6.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\db86548a-19dd-4d37-b720-3fbb45ce5a03_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\edd2e01e-7f6a-4112-8e87-ea760325e8a3_7.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\edd2e01e-7f6a-4112-8e87-ea760325e8a3_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\DOAN2\\DOAN2\\Shopping\\Shopping\\wwwroot\\media\\products\\ef7479e5-428f-4365-a052-af00ffbf4672_2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\ef7479e5-428f-4365-a052-af00ffbf4672_2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shopping.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Shopping.props",
+      "PackagePath": "build\\Shopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Shopping.props",
+      "PackagePath": "buildMultiTargeting\\Shopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Shopping.props",
+      "PackagePath": "buildTransitive\\Shopping.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
